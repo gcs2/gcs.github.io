@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Individual Project Proposal: Domestic Robots
+title: Individual Project Proposal
 tags: [test]
 comments: true
 ---
