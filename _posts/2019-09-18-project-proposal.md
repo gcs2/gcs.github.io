@@ -5,6 +5,7 @@ tags: [test]
 comments: true
 bigimg:
   - /img/Domestic-bot.jpg
+  - /img/Domestic-bot.jpg
 ---
 
 ![Domestic robot helper](/img/Domestic-bot.jpg) 
