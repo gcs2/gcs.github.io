@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Individual Project Proposal: Domestic Robots
+title: Individual Project Proposal
 tags: [test]
+comments: true
 ---
 
 ![Domestic robot helper](/img/Domestic-bot.jpg) 
+# Domestic Robots
 
 ## Motivation
 
