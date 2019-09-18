@@ -5,7 +5,8 @@ tags: [test]
 comments: true
 ---
 
-#Domestic Robotics
+![Domestic robot helper](/img/Domestic-bot.jpg) 
+# Domestic Robots
 
 ## Motivation
 
