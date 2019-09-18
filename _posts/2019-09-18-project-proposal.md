@@ -3,6 +3,12 @@ layout: post
 title: Individual Project Proposal
 tags: [test]
 comments: true
+bigimg:
+  - /img/projectPic.jpg 
+  - /img/projectPic2.jpg
+  - /img/projectPic3.jpg
+  - /img/projectPic4.jpg
+  - /img/projectPic5.jpg
 ---
 
 ![Domestic robot helper](/img/Domestic-bot.jpg) 
