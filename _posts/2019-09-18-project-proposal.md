@@ -2,8 +2,8 @@
 layout: post
 title: Individual Project Proposal: Domestic Robots
 tags: [test]
-bigimg: /img/Domestic-bot.jpg
-comments: true
+bigimg: 
+  - /img/Domestic-bot.jpg
 ---
 
 ![Domestic robot helper](/img/Domestic-bot.jpg) 
